@@ -10,8 +10,8 @@
     "point": 100,
     "type": "teacher",
     "created_at": "2026-03-11",
-    "image": "https://i.pravatar.cc/150?img=1",
-    "daily_items": ["Check homework", "Prepare lesson", "Review tests"]
+    "image": "https://i.pinimg.com/1200x/a3/d6/c0/a3d6c0caf1fa0317bb7e8fa02819d6ff.jpg",
+    "daily_items": "https://i.pinimg.com/736x/c0/93/5b/c0935b19ca9f131cea2d05e6ccacad17.jpg"
   },
   {
     "id": 1,
@@ -24,8 +24,8 @@
     "point": 100,
     "type": "teacher",
     "created_at": "2026-03-11",
-    "image": "https://i.pravatar.cc/150?img=2",
-    "daily_items": ["Prepare slides", "Grade papers", "Attend meeting"]
+    "image": "https://i.pinimg.com/1200x/a3/d6/c0/a3d6c0caf1fa0317bb7e8fa02819d6ff.jpg",
+    "daily_items": "https://i.pinimg.com/736x/a7/15/23/a715233f5e021d9761a6242528a6aa41.jpg"
   },
   {
     "id": 2,
@@ -38,8 +38,8 @@
     "point": 100,
     "type": "teacher",
     "created_at": "2026-03-11",
-    "image": "https://i.pravatar.cc/150?img=3",
-    "daily_items": ["Update notes", "Check assignments", "Student feedback"]
+    "image": "https://i.pinimg.com/1200x/a3/d6/c0/a3d6c0caf1fa0317bb7e8fa02819d6ff.jpg",
+    "daily_items": "https://i.pinimg.com/736x/cf/9c/f4/cf9cf48be792e3a6afdaa234b5a52548.jpg"
   },
   {
     "id": 3,
@@ -52,8 +52,8 @@
     "point": 100,
     "type": "teacher",
     "created_at": "2026-03-11",
-    "image": "https://i.pravatar.cc/150?img=4",
-    "daily_items": ["Lesson planning", "Marking", "Online class"]
+    "image": "https://i.pinimg.com/1200x/a3/d6/c0/a3d6c0caf1fa0317bb7e8fa02819d6ff.jpg",
+    "daily_items": "https://i.pinimg.com/736x/f2/42/bd/f242bd2b1ee81c62d76c5e58f4b59101.jpg"
   },
   {
     "id": 4,
@@ -66,10 +66,9 @@
     "point": 100,
     "type": "teacher",
     "created_at": "2026-03-11",
-    "image": "https://i.pravatar.cc/150?img=5",
-    "daily_items": ["Prepare exam", "Review students", "Staff meeting"]
+    "image": "https://i.pinimg.com/1200x/a3/d6/c0/a3d6c0caf1fa0317bb7e8fa02819d6ff.jpg",
+    "daily_items": "https://i.pinimg.com/control1/1200x/cc/f6/22/ccf6223cde2ffe0930333c600e7ea62c.jpg"
   },
-
   {
     "id": 5,
     "first_name": "Chyntsalnym",
@@ -81,10 +80,9 @@
     "point": 100,
     "type": "teacher",
     "created_at": "2026-03-11",
-    "image": "https://i.pravatar.cc/150?img=6",
-    "daily_items": ["Check homework", "Prepare quiz", "Teach class"]
+    "image": "https://i.pinimg.com/1200x/a3/d6/c0/a3d6c0caf1fa0317bb7e8fa02819d6ff.jpg",
+    "daily_items": "https://i.pinimg.com/736x/ff/c8/ee/ffc8ee96a88ce690530764997d65bab6.jpg"
   },
-
   {
     "id": 6,
     "first_name": "Dolgion",
@@ -96,10 +94,9 @@
     "point": 100,
     "type": "teacher",
     "created_at": "2026-03-11",
-    "image": "https://i.pravatar.cc/150?img=7",
-    "daily_items": ["Study plan", "Review homework", "Coding practice"]
+    "image": "https://i.pinimg.com/1200x/a3/d6/c0/a3d6c0caf1fa0317bb7e8fa02819d6ff.jpg",
+    "daily_items": "https://i.pinimg.com/736x/88/7c/c8/887cc8546bbaa9527272e7b8903c6fd1.jpg"
   },
-
   {
     "id": 7,
     "first_name": "Dul",
@@ -111,10 +108,9 @@
     "point": 100,
     "type": "teacher",
     "created_at": "2026-03-11",
-    "image": "https://i.pravatar.cc/150?img=8",
-    "daily_items": ["Write report", "Check tests", "Meet students"]
+    "image": "https://i.pinimg.com/1200x/a3/d6/c0/a3d6c0caf1fa0317bb7e8fa02819d6ff.jpg",
+    "daily_items": "https://i.pinimg.com/control1/736x/e4/96/6b/e4966bcc38dd79d8e5974d5712afa4a2.jpg"
   },
-
   {
     "id": 8,
     "first_name": "Erdenetsetseg",
@@ -126,10 +122,9 @@
     "point": 100,
     "type": "teacher",
     "created_at": "2026-03-11",
-    "image": "https://i.pravatar.cc/150?img=9",
-    "daily_items": ["Prepare lesson", "Check homework", "Class review"]
+    "image": "https://i.pinimg.com/1200x/a3/d6/c0/a3d6c0caf1fa0317bb7e8fa02819d6ff.jpg",
+    "daily_items": "https://i.pinimg.com/736x/2b/fd/59/2bfd593c3c73c2f8c3deda47fe417a60.jpg"
   },
-
   {
     "id": 9,
     "first_name": "Khishigjargal",
@@ -141,8 +136,8 @@
     "point": 100,
     "type": "teacher",
     "created_at": "2026-03-11",
-    "image": "https://i.pravatar.cc/150?img=10",
-    "daily_items": ["Grade papers", "Prepare quiz", "Student feedback"]
+    "image": "https://i.pinimg.com/1200x/a3/d6/c0/a3d6c0caf1fa0317bb7e8fa02819d6ff.jpg",
+    "daily_items": "https://i.pinimg.com/control1/736x/e4/ce/41/e4ce41e6f71bcc881c222e13f8de69e6.jpg"
   },
 
   {
@@ -156,339 +151,7 @@
     "point": 100,
     "type": "student",
     "created_at": "2026-03-11",
-    "image": "https://i.pravatar.cc/150?img=11",
-    "daily_items": ["Do homework", "Study math", "Read book"]
-  },
-
-  {
-    "id": 11,
-    "first_name": "Temuujin",
-    "last_name": "Bayasgalan",
-    "email": "nest21271012@nhs.edu.mn",
-    "age": 17,
-    "country": "Mongolia",
-    "password": "password123",
-    "point": 100,
-    "type": "student",
-    "created_at": "2026-03-11",
-    "image": "https://i.pravatar.cc/150?img=12",
-    "daily_items": ["Practice coding", "Do assignment", "Watch lecture"]
-  },
-
-  {
-    "id": 12,
-    "first_name": "Bat-uchral",
-    "last_name": "Erdenebat",
-    "email": "nest23271010@nhs.edu.mn",
-    "age": 17,
-    "country": "Mongolia",
-    "password": "password123",
-    "point": 100,
-    "type": "student",
-    "created_at": "2026-03-11",
-    "image": "https://i.pravatar.cc/150?img=13",
-    "daily_items": ["Math homework", "Study English", "Clean desk"]
-  },
-
-  {
-    "id": 13,
-    "first_name": "Turmunkh",
-    "last_name": "Davaa-ochir",
-    "email": "nest21271010@nhs.edu.mn",
-    "age": 17,
-    "country": "Mongolia",
-    "password": "password123",
-    "point": 100,
-    "type": "student",
-    "created_at": "2026-03-11",
-    "image": "https://i.pravatar.cc/150?img=14",
-    "daily_items": ["Study coding", "Homework", "Exercise"]
-  },
-
-  {
-    "id": 14,
-    "first_name": "Telmuun",
-    "last_name": "Narankhuu",
-    "email": "nest20271010@nhs.edu.mn",
-    "age": 17,
-    "country": "Mongolia",
-    "password": "password123",
-    "point": 100,
-    "type": "student",
-    "created_at": "2026-03-11",
-    "image": "https://i.pravatar.cc/150?img=15",
-    "daily_items": ["Read book", "Math practice", "Watch tutorial"]
-  },
-
-  {
-    "id": 15,
-    "first_name": "Ermuun",
-    "last_name": "Buyanbaatar",
-    "email": "nest20271013@nhs.edu.mn",
-    "age": 17,
-    "country": "Mongolia",
-    "password": "password123",
-    "point": 100,
-    "type": "student",
-    "created_at": "2026-03-11",
-    "image": "https://i.pravatar.cc/150?img=16",
-    "daily_items": ["Homework", "Study physics", "Coding practice"]
-  },
-
-  {
-    "id": 16,
-    "first_name": "Munkh-Orgil",
-    "last_name": "Munkhzorig",
-    "email": "nest25271004@nhs.edu.mn",
-    "age": 17,
-    "country": "Mongolia",
-    "password": "password123",
-    "point": 100,
-    "type": "student",
-    "created_at": "2026-03-11",
-    "image": "https://i.pravatar.cc/150?img=17",
-    "daily_items": ["Study math", "Do homework", "Read notes"]
-  },
-
-  {
-    "id": 17,
-    "first_name": "Tuguldur",
-    "last_name": "Ankhtuya",
-    "email": "nest20271007@nhs.edu.mn",
-    "age": 17,
-    "country": "Mongolia",
-    "password": "password123",
-    "point": 100,
-    "type": "student",
-    "created_at": "2026-03-11",
-    "image": "https://i.pravatar.cc/150?img=18",
-    "daily_items": ["Coding practice", "Homework", "Study"]
-  },
-
-  {
-    "id": 18,
-    "first_name": "Taito mua",
-    "last_name": "Lawakele",
-    "email": "nest23271018@nhs.edu.mn",
-    "age": 18,
-    "country": "Mongolia",
-    "password": "password123",
-    "point": 100,
-    "type": "student",
-    "created_at": "2026-03-11",
-    "image": "https://i.pravatar.cc/150?img=19",
-    "daily_items": ["Study English", "Homework", "Watch lesson"]
-  },
-
-  {
-    "id": 19,
-    "first_name": "Tuvshin",
-    "last_name": "Bat-erdene",
-    "email": "nest21271011@nhs.edu.mn",
-    "age": 17,
-    "country": "Mongolia",
-    "password": "password123",
-    "point": 100,
-    "type": "student",
-    "created_at": "2026-03-11",
-    "image": "https://i.pravatar.cc/150?img=20",
-    "daily_items": ["Math homework", "Study coding", "Read book"]
-  },
-
-  {
-    "id": 20,
-    "first_name": "Tugs-erdene",
-    "last_name": "Shinelundaa",
-    "email": "nest20271008@nhs.edu.mn",
-    "age": 17,
-    "country": "Mongolia",
-    "password": "password123",
-    "point": 100,
-    "type": "student",
-    "created_at": "2026-03-11",
-    "image": "https://i.pravatar.cc/150?img=21",
-    "daily_items": ["Homework", "Practice coding", "Study math"]
-  },
-  {
-    "id": 21,
-    "first_name": "Temujin",
-    "last_name": "Gantulga",
-    "email": "nest24271006@nhs.edu.mn",
-    "age": 17,
-    "country": "Mongolia",
-    "password": "password123",
-    "point": 100,
-    "type": "student",
-    "created_at": "2026-03-11",
-    "image": "https://i.pravatar.cc/150?img=22",
-    "daily_items": ["Do homework", "Study math"]
-  },
-  {
-    "id": 22,
-    "first_name": "Chinguun",
-    "last_name": "Erdene-ochir",
-    "email": "nest21271019@nhs.edu.mn",
-    "age": 17,
-    "country": "Mongolia",
-    "password": "password123",
-    "point": 100,
-    "type": "student",
-    "created_at": "2026-03-11",
-    "image": "https://i.pravatar.cc/150?img=23",
-    "daily_items": ["Coding practice", "Watch lesson"]
-  },
-  {
-    "id": 23,
-    "first_name": "Angaragnaran",
-    "last_name": "Dambradorj",
-    "email": "nest21271002@nhs.edu.mn",
-    "age": 17,
-    "country": "Mongolia",
-    "password": "password123",
-    "point": 100,
-    "type": "student",
-    "created_at": "2026-03-11",
-    "image": "https://i.pravatar.cc/150?img=24",
-    "daily_items": ["Homework", "Read book"]
-  },
-  {
-    "id": 24,
-    "first_name": "Temuulen",
-    "last_name": "Davaadorj",
-    "email": "nest21271013@nhs.edu.mn",
-    "age": 16,
-    "country": "Mongolia",
-    "password": "password123",
-    "point": 100,
-    "type": "student",
-    "created_at": "2026-03-11",
-    "image": "https://i.pravatar.cc/150?img=25",
-    "daily_items": ["Study English", "Do assignment"]
-  },
-  {
-    "id": 25,
-    "first_name": "Altanzangilaa",
-    "last_name": "Bat-Erdene",
-    "email": "nest20271001@nhs.edu.mn",
-    "age": 17,
-    "country": "Mongolia",
-    "password": "password123",
-    "point": 100,
-    "type": "student",
-    "created_at": "2026-03-11",
-    "image": "https://i.pravatar.cc/150?img=26",
-    "daily_items": ["Math practice", "Watch tutorial"]
-  },
-  {
-    "id": 26,
-    "first_name": "Orgil",
-    "last_name": "Tsogtsaikhan",
-    "email": "nest20271006@nhs.edu.mn",
-    "age": 17,
-    "country": "Mongolia",
-    "password": "password123",
-    "point": 100,
-    "type": "student",
-    "created_at": "2026-03-11",
-    "image": "https://i.pravatar.cc/150?img=27",
-    "daily_items": ["Homework", "Study coding"]
-  },
-  {
-    "id": 27,
-    "first_name": "Bilguun",
-    "last_name": "Shirmenbaatar",
-    "email": "nest20271002@nhs.edu.mn",
-    "age": 17,
-    "country": "Mongolia",
-    "password": "password123",
-    "point": 100,
-    "type": "student",
-    "created_at": "2026-03-11",
-    "image": "https://i.pravatar.cc/150?img=28",
-    "daily_items": ["Read notes", "Do homework"]
-  },
-  {
-    "id": 28,
-    "first_name": "Chinguun",
-    "last_name": "Batbayar",
-    "email": "nest21271020@nhs.edu.mn",
-    "age": 17,
-    "country": "Mongolia",
-    "password": "password123",
-    "point": 100,
-    "type": "student",
-    "created_at": "2026-03-11",
-    "image": "https://i.pravatar.cc/150?img=29",
-    "daily_items": ["Study math", "Practice coding"]
-  },
-  {
-    "id": 29,
-    "first_name": "Badmaarag",
-    "last_name": "Gantugs",
-    "email": "nest23271002@nhs.edu.mn",
-    "age": 17,
-    "country": "Mongolia",
-    "password": "password123",
-    "point": 100,
-    "type": "student",
-    "created_at": "2026-03-11",
-    "image": "https://i.pravatar.cc/150?img=30",
-    "daily_items": ["Homework", "Watch lesson"]
-  },
-  {
-    "id": 30,
-    "first_name": "Shinebayar",
-    "last_name": "Tsogoo",
-    "email": "nest24271011@nhs.edu.mn",
-    "age": 17,
-    "country": "Mongolia",
-    "password": "password123",
-    "point": 100,
-    "type": "student",
-    "created_at": "2026-03-11",
-    "image": "https://i.pravatar.cc/150?img=31",
-    "daily_items": ["Study physics", "Do homework"]
-  },
-  {
-    "id": 31,
-    "first_name": "Tulga",
-    "last_name": "ErdeneBayar",
-    "email": "nest20271009@nhs.edu.mn",
-    "age": 17,
-    "country": "Mongolia",
-    "password": "password123",
-    "point": 100,
-    "type": "student",
-    "created_at": "2026-03-11",
-    "image": "https://i.pravatar.cc/150?img=32",
-    "daily_items": ["Math homework", "Read book"]
-  },
-  {
-    "id": 32,
-    "first_name": "Temulen",
-    "last_name": "Gantulga",
-    "email": "nest24271007@nhs.edu.mn",
-    "age": 17,
-    "country": "Mongolia",
-    "password": "password123",
-    "point": 100,
-    "type": "student",
-    "created_at": "2026-03-11",
-    "image": "https://i.pravatar.cc/150?img=33",
-    "daily_items": ["Coding practice", "Homework"]
-  },
-  {
-    "id": 33,
-    "first_name": "Erkhem",
-    "last_name": "Ganzorig",
-    "email": "nest20271014@nhs.edu.mn",
-    "age": 17,
-    "country": "Mongolia",
-    "password": "password123",
-    "point": 100,
-    "type": "student",
-    "created_at": "2026-03-11",
-    "image": "https://i.pravatar.cc/150?img=34",
-    "daily_items": ["Study English", "Do assignment"]
+    "image": "https://i.pinimg.com/1200x/a3/d6/c0/a3d6c0caf1fa0317bb7e8fa02819d6ff.jpg",
+    "daily_items": "https://i.pinimg.com/control1/1200x/ea/7a/87/ea7a87ffb19fe92a79219da243cfa729.jpg"
   }
 ]
