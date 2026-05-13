@@ -50,7 +50,7 @@ export default function TestPage() {
           </div>
 
           <div className="bg-[#1e293b] rounded-2xl p-6">
-            <h3 className="text-sm mb-4 text-gray-300">TODAY'S FORECAST</h3>
+            <h3 className="text-sm mb-4 text-gray-300">TODAYS FORECAST</h3>
 
             <div className="flex justify-between text-center">
               {[
